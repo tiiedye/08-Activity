@@ -1,7 +1,7 @@
 ![made-with-VSCode](https://img.shields.io/badge/Made%20With-VS%20Code-green)  ![Using-CPlusPlus](https://img.shields.io/badge/Using-C%2B%2B-ff69b4)
 
 # Got Change??
-    A simple CLI app that uses operators in C++ to determine the value of your cents, and organizes them into: dollars, quarters, dimes, nickles, and pennies.
+A simple CLI app that uses operators in C++ to determine the value of your cents, and organizes them into: dollars, quarters, dimes, nickles, and pennies.
 
 <img src="./assets/screenshot.png"
      alt="Img"
