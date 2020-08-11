@@ -8,9 +8,9 @@ A simple CLI app that uses operators in C++ to determine the value of your cents
      style="margin-right: 10px; height: 400px;" />
 
 ### Requirements for VS Code
-    * C/C++
-    * C/C++ Compile Run
-    * mingw
+* C/C++
+* C/C++ Compile Run
+* mingw
 
 
 ### Instructions
